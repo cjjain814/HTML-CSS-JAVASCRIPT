@@ -2,7 +2,7 @@
 ## OVERVIEW
 ### Website layouts are very simple to make using **HTML, CSS & JAVASCRIPT**
 ## HTML | Layout
-layout is the part of graphc design that deals with the arrangement of visual elements on a page. Page layout is used to make the web pages look better. It establishes the overall appearancen, relative importance, and relationships between the graphc elements to achieve a smooth flow of information and eye movement for maximum effectiveness or impect.
+Layout is the part of graphic design that deals with the arrangement of visual elements on a page. Page layout is used to make the web pages look better. It establishes the overall appearance, relative importance, and relationships between the graphic elements to achieve a smooth flow of information and eye movement for maximum effectiveness or impact.
 ## Layout Consists of:
 
 **Header:** The part of a front end which is used at the top of the page <code>header</code> tag is used to add header section in web pages. <br>
